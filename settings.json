@@ -1,0 +1,64 @@
+{
+    "editor.fontSize": 18,
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.suggestSelection": "first",
+    "explorer.confirmDelete": false,
+    "emmet.showSuggestionsAsSnippets": true,
+    "emmet.triggerExpansionOnTab": true,
+    "emmet.showAbbreviationSuggestions": false,
+    "editor.wordWrap": "on",
+    "workbench.sideBar.location": "right",
+    "editor.snippetSuggestions": "top",
+    "editor.formatOnPaste": true,
+    "terminal.integrated.fontSize": 16,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "emmet.syntaxProfiles": {
+        "javascript": "jsx"
+    },
+    "editor.formatOnSave": true,
+    "workbench.colorCustomizations": {
+        "terminal.foreground": "#ea00ff",
+        "terminal.background": "#000000",
+        "sideBar.background": "#111111",
+        "activityBar.background": "#111111",
+        "activityBar.foreground": "#00FFFF",
+    },
+    "editor.largeFileOptimizations": false,
+    "html.format.indentHandlebars": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "prettier.jsxBracketSameLine": true,
+    "prettier.jsxSingleQuote": true,
+    // "[html]": {
+    // "editor.defaultFormatter": "esbenp.prettier-vscode"
+    // },
+    "prettier.disableLanguages": [],
+    "terminal.integrated.rendererType": "dom",
+    "tabnine.experimentalAutoImports": true,
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "files.associations": {
+        "*.tsx": "javascriptreact"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "git.autofetch": true,
+    "[nunjucks]": {
+        "editor.formatOnSave": false,
+        "editor.defaultFormatter": "okitavera.vscode-nunjucks-formatter"
+    },
+    "liveServer.settings.donotShowInfoMsg": true,
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "liveshare.presence": false,
+    "javascript.validate.enable": false
+}
